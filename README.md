@@ -1,8 +1,5 @@
 ### Tyler Hudson
 
-Hi, I'm Tyler! A junior at UNCC majoring in Computer Science, with a concentration on AI, robotics, and gaming. I love coding.
-
-
 <!--
 **Tylario/Tylario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
