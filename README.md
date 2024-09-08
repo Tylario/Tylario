@@ -6,7 +6,7 @@ Check out my website: [tylar.io](https://tylar.io)
 
 🎮 Indie game dev and more at tylar.io
 
-🚀 GitHub is a work in progress
+🚀 GitHub is a work in progress—visit my site for polished projects
 
 📚 Always learning
 
