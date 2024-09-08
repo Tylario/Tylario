@@ -3,8 +3,11 @@
 Check out my website: [tylar.io](https://tylar.io)
 
 🎓 Graduating December 2024, UNCC
+
 🎮 Indie game dev and more at tylar.io
+
 🚀 GitHub is a work in progress—visit my site for polished projects
+
 📚 Always learning
 
 <!--
