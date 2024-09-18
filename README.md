@@ -1,14 +1,20 @@
 ### Tyler Hudson
 
-Check out my website: [tylar.io](https://tylar.io)
+Check out my Personal Website / Portfolio: [tylar.io](https://tylar.io)
 
 🎓 Graduating December 2024, UNCC
+   📚 Currently studying machine learning.
+   🔬 Conducting simulations on cellular automata like Lenia/SmoothLife in higher dimensions.
 
-🎮 Indie game dev and more at tylar.io
+🎮 Indie game developer at tylar.io
+   - [PEGGO!](https://store.steampowered.com/app/1684820/PEGGO/)
+   - [Dead Unending](https://store.steampowered.com/app/2236240/Dead_Unending/)
+   - [Incremental Island](https://store.steampowered.com/app/2847980/Incremental_Island/)
+   - [Portal Puzzle](https://store.steampowered.com/app/2611630/Portal_Puzzle/)
 
-🚀 GitHub is a work in progress—visit my site for polished projects
-
+🚀 GitHub reflects ongoing projects and coursework
 📚 Always learning
+
 
 <!--
 **Tylario/Tylario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
