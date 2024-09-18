@@ -3,7 +3,9 @@
 Check out my Personal Website / Portfolio: [tylar.io](https://tylar.io)
 
 🎓 Graduating December 2024, UNCC
+
    📚 Currently studying machine learning.
+   
    🔬 Conducting simulations on cellular automata like Lenia/SmoothLife in higher dimensions.
 
 🎮 Indie game developer at tylar.io
