@@ -4,7 +4,7 @@ Check out my Personal Website / Portfolio: [tylar.io](https://tylar.io)
 
 🎓 2024 UNCC Graduate
 🎮 Indie game developer
-   - [PEGGO!](https://store.steampowered.com/app/1684820/PEGGO/), [Dead Unending](https://store.steampowered.com/app/2236240/Dead_Unending/), [Portal Puzzle](https://store.steampowered.com/app/2611630/Portal_Puzzle/), [Stellar Leap](https://store.steampowered.com/app/2966910/Stellar_Leap/), [Shell Shocked](https://teamcrabby.itch.io/shellshocked), [Incremental Island](https://store.steampowered.com/app/2847980/Incremental_Island/)
+   - [PEGGO!](https://store.steampowered.com/app/1684820/PEGGO/), [Dead Unending](https://store.steampowered.com/app/2236240/Dead_Unending/), [Portal Puzzle](https://store.steampowered.com/app/2611630/Portal_Puzzle/), [Level Down](https://store.steampowered.com/app/2966910/Stellar_Leap/), [Shell Shocked](https://teamcrabby.itch.io/shellshocked), [Incremental Island](https://store.steampowered.com/app/2847980/Incremental_Island/)
 
 📚 Always learning
 
